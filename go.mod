@@ -1,4 +1,4 @@
-module github.com/todylcom/archiver/v4
+module github.com/todylcom/archiver
 
 go 1.18
 
