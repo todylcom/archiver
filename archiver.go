@@ -21,6 +21,9 @@ type File struct {
 	// an archive.
 	Header interface{}
 
+	// IsEncrypted indicates if the file has encryption
+	IsEncrypted bool
+
 	// The path of the file as it appears in the archive.
 	// This is equivalent to Header.Name (for most Header
 	// types). We require it to be specified here because

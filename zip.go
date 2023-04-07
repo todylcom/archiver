@@ -215,6 +215,7 @@ func (z Zip) Extract(ctx context.Context, sourceArchive io.Reader, pathsInArchiv
 			FileInfo:      f.FileInfo(),
 			Header:        f.FileHeader,
 			NameInArchive: f.Name,
+			IsEncrypted:   f.FileHeader.Flags&0x1 == 1,
 			Open:          func() (io.ReadCloser, error) { return f.Open() },
 		}
 
