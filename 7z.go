@@ -11,7 +11,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/bodgit/sevenzip"
+	"github.com/todylcom/sevenzip"
 )
 
 func init() {
@@ -97,6 +97,7 @@ func (z SevenZip) Extract(ctx context.Context, sourceArchive io.Reader, pathsInA
 			FileInfo:      f.FileInfo(),
 			Header:        f.FileHeader,
 			NameInArchive: f.Name,
+			IsEncrypted:   f.IsEncrypted(),
 			Open:          func() (io.ReadCloser, error) { return f.Open() },
 		}
 
