@@ -98,8 +98,6 @@ github.com/klauspost/pgzip v1.2.5/go.mod h1:Ch1tH69qFZu15pkjo5kYi6mth2Zzwzt50oCQ
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
 github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
-github.com/nwaples/rardecode/v2 v2.0.0-beta.2 h1:e3mzJFJs4k83GXBEiTaQ5HgSc/kOK8q0rDaRO0MPaOk=
-github.com/nwaples/rardecode/v2 v2.0.0-beta.2/go.mod h1:yntwv/HfMc/Hbvtq9I19D1n58te3h6KsqCf3GxyfBGY=
 github.com/pierrec/lz4/v4 v4.1.15 h1:MO0/ucJhngq7299dKLwIMtgTfbkoSPF6AoMYDd8Q4q0=
 github.com/pierrec/lz4/v4 v4.1.15/go.mod h1:gZWDp/Ze/IJXGXf23ltt2EXimqmTUXEy0GFuRQyBid4=
 github.com/pierrec/lz4/v4 v4.1.17 h1:kV4Ip+/hUBC+8T6+2EgburRtkE9ef4nbY3f4dFhGjMc=
@@ -119,6 +117,8 @@ github.com/stretchr/testify v1.8.0/go.mod h1:yNjHg4UonilssWZ8iaSj1OCr/vHnekPRkoO
 github.com/stretchr/testify v1.8.1/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o6fzry7u4=
 github.com/therootcompany/xz v1.0.1 h1:CmOtsn1CbtmyYiusbfmhmkpAAETj0wBIH6kCYaX+xzw=
 github.com/therootcompany/xz v1.0.1/go.mod h1:3K3UH1yCKgBneZYhuQUvJ9HPD19UEXEI0BWbMn8qNMY=
+github.com/todylcom/rardecode/v2 v2.0.0-beta.3 h1:08oK9l9X9hTPGnPFHvpAVlc0PF2vo46ejwE4inNprl4=
+github.com/todylcom/rardecode/v2 v2.0.0-beta.3/go.mod h1:6W7UJt+Zmv0KV5tSJ/SUzMmE77VnM1KZlVUztpeLfMk=
 github.com/todylcom/sevenzip v0.0.0-20230420030911-2cdc363971ea h1:Y/+SY62btiJUqxrHcwfUJnr/yIVXupy0lNGNQKMS8fE=
 github.com/todylcom/sevenzip v0.0.0-20230420030911-2cdc363971ea/go.mod h1:35znuUcWzeikftW5DsgkfnSrSjfZkhuL3G47av8lStw=
 github.com/todylcom/sevenzip v0.0.0-20230420031234-a14a52aca061 h1:XA4HifTUVz21sJnQatxmB28xZQZpGqXaWRuOJHFRaD4=

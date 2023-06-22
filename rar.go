@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/nwaples/rardecode/v2"
+	"github.com/todylcom/rardecode/v2"
 )
 
 func init() {
@@ -103,6 +103,7 @@ func (r Rar) Extract(ctx context.Context, sourceArchive io.Reader, pathsInArchiv
 			Header:        hdr,
 			NameInArchive: hdr.Name,
 			Open:          func() (io.ReadCloser, error) { return io.NopCloser(rr), nil },
+			IsEncrypted:   rr.IsEncrypted(),
 		}
 
 		err = handleFile(ctx, file)
