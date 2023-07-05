@@ -15,7 +15,7 @@ require (
 	github.com/golang/snappy v0.0.4
 	github.com/pierrec/lz4/v4 v4.1.17
 	github.com/todylcom/rardecode/v2 v2.0.0-beta.4
-	github.com/todylcom/sevenzip v0.0.0-20230420031234-a14a52aca061
+	github.com/todylcom/sevenzip v0.0.0-20230705171603-31994a8b4ca0
 	golang.org/x/text v0.9.0
 )
 

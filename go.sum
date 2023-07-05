@@ -103,8 +103,8 @@ github.com/therootcompany/xz v1.0.1 h1:CmOtsn1CbtmyYiusbfmhmkpAAETj0wBIH6kCYaX+x
 github.com/therootcompany/xz v1.0.1/go.mod h1:3K3UH1yCKgBneZYhuQUvJ9HPD19UEXEI0BWbMn8qNMY=
 github.com/todylcom/rardecode/v2 v2.0.0-beta.4 h1:9p/AC4PL0OWEmP2nQ/FYGJmaKl9JvrXeKccO0vK4hFY=
 github.com/todylcom/rardecode/v2 v2.0.0-beta.4/go.mod h1:6W7UJt+Zmv0KV5tSJ/SUzMmE77VnM1KZlVUztpeLfMk=
-github.com/todylcom/sevenzip v0.0.0-20230420031234-a14a52aca061 h1:XA4HifTUVz21sJnQatxmB28xZQZpGqXaWRuOJHFRaD4=
-github.com/todylcom/sevenzip v0.0.0-20230420031234-a14a52aca061/go.mod h1:35znuUcWzeikftW5DsgkfnSrSjfZkhuL3G47av8lStw=
+github.com/todylcom/sevenzip v0.0.0-20230705171603-31994a8b4ca0 h1:53F+S6tL09k6dKvis0GBoOATD0arKjV04AcVL+qsGi0=
+github.com/todylcom/sevenzip v0.0.0-20230705171603-31994a8b4ca0/go.mod h1:35znuUcWzeikftW5DsgkfnSrSjfZkhuL3G47av8lStw=
 github.com/ulikunitz/xz v0.5.6/go.mod h1:2bypXElzHzzJZwzH67Y6wb67pO62Rzfn7BSiF4ABRW8=
 github.com/ulikunitz/xz v0.5.11 h1:kpFauv27b6ynzBNT/Xy+1k+fK4WswhN/6PN5WhFAGw8=
 github.com/ulikunitz/xz v0.5.11/go.mod h1:nbz6k7qbPmH4IRqmfOplQw/tblSgqTqBwxkY0oWt/14=
